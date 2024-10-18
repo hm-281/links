@@ -6,12 +6,12 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #a659e7;
+  background-color: #5d2190;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  color: #FF0000;
+  color: #000000;
   overflow-x: hidden;
 }
 
